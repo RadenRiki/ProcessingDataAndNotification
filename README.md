@@ -1,0 +1,1 @@
+Step pertama adalah menjalankan aplikasi, akan ada pop up allow notification, setelah di allow akan terlihat main screen dan tombol tampilkan matkul, setelah tombol dipencet akan langsung menampilkan matkul dan juga akan ada notifikasi di notification center
